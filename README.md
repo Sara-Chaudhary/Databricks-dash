@@ -23,13 +23,13 @@ Most implementations use pre-existing datasets; however, for this project, I **e
 2.  **`Analysis_Pipeline.py`**: The transformation layer. Cleans raw data, calculates attribution metrics, and prepares the "Gold" tables for the dashboard.
 
    
-<img width="1749" height="869" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/a6d42d63-e24b-4b76-8f05-7e8ea275a0b1" />
 ## 📊 Dashboard Highlights
 The final **Campaign Effectiveness Dashboard** provides:
 * **Total Foot Traffic:** 3.63M visits tracked.
 * **Ad Value:** Managed $4.99M in simulated ad impression value.
 * **Trend Identification:** Visualized how Google Search Trends serve as a leading indicator for store visits.
 * **Regional Volume:** New York identified as the highest volume contributor.
+<img width="1749" height="869" alt="Dashboard (1)" src="https://github.com/user-attachments/assets/a6d42d63-e24b-4b76-8f05-7e8ea275a0b1" />
 
 ---
 *Developed as an independent project to demonstrate full-stack Data Engineering and Analytics capabilities on the Databricks Lakehouse Platform.*
